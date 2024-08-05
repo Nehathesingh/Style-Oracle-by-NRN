@@ -7,18 +7,28 @@ Trend-Identification: Utilize data analytics and market research to identify eme
 Trend-Centric Recommendations: Employ AI-driven recommendation systems that analyze current fashion trends, customer preferences, and purchase history to deliver tailored product suggestions, enhancing customer engagement and conversion rates in the fast fashion segment.
 ***
 # Technology
-The Broad Technologies Used till now are:
+The Broad Technologies Used  are:
+
 For Web scrapping: 
+
 Libraries: Selenium, OS, wget etc.
+
 Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
 
 Recommendation System:
+
 Programming Language: Python
+
 Libraries: OpenCV, Pandas, Numpy, Scikit-learn, Pickle
+
 Framework: TensorFlow/Keras
+
 Tools: Jupyter Notebook, VS Code
+
 Frontend Development:
+
 Libraries: Streamlit
+
 Tools: VS Code
 ***
 # Features
