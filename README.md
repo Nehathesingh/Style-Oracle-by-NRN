@@ -19,6 +19,7 @@ Tools: Jupyter Notebook, VS Code
 Frontend Development:
 Libraries: Streamlit
 Tools: VS Code
+***
 # Features
 Personalization: Tailors recommendations to individual preferences, enhancing customer satisfaction.
 
