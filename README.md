@@ -11,6 +11,7 @@ The Broad Technologies Used till now are:
 For Web scrapping: 
 Libraries: Selenium, OS, wget etc.
 Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
+
 Recommendation System:
 Programming Language: Python
 Libraries: OpenCV, Pandas, Numpy, Scikit-learn, Pickle
